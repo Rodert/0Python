@@ -1,3 +1,5 @@
+# 调整大小，并获取灰度图 
+
 import cv2
  
 if __name__ == '__main__':
@@ -13,6 +15,6 @@ if __name__ == '__main__':
 
     # 退出，按任意键关闭窗口
     cv2.waitKey(0)
-    # 显示图像
+    # 窗口显示图像
     cv2.destroyAllWindows()
 
