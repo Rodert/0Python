@@ -24,3 +24,7 @@ https://javapub.blog.csdn.net/article/details/126706661
 
 https://javapub.blog.csdn.net/article/details/123656345
 
+3. 安装pytesseract
+
+https://blog.csdn.net/z564359805/article/details/111317384
+
