@@ -1,8 +1,11 @@
 import cv2
 import imutils
 import numpy as np
+# import pytesseract
+
  
 if __name__ == '__main__':
+    # pytesseract.pytesseract.tesseract_cmd = r"C:\\Users\\EDY\\Desktop\\tesseract4win64-4.0-beta\\tesseract4win64-4.0-beta\\x64\\tesseract.exe"
     img = cv2.imread('2.jpeg')
     # 调整图片大小
     img = cv2.resize(img, (620, 480))
